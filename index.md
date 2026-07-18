@@ -9,7 +9,7 @@ title: Home
 
 ---
 
-Welcome to my personal research website. This is still a very preliminary page in construction.
+Welcome to my personal mathematics website. This is still a very preliminary page under construction.
 
 ## Contact Information
 * **Email:** giuliano.romeo@polito.it
