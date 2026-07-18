@@ -5,7 +5,7 @@ title: Talks
 
 ## Talks
 
----
+
 
 * **Sep 24, 2026** – *Universality criterion sets for quadratic forms over number fields*  
   Tenth Number Theory Meeting, Torino, Italy.  
