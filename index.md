@@ -9,11 +9,7 @@ title: Home
 
 ---
 
-Welcome to my personal research website. I am a mathematician focusing primarily on Number Theory and Arithmetic Geometry. 
-
-My research topics include $p$-adic numbers, continued fractions, and multidimensional continued fractions.
+Welcome to my personal research website. This is still a very preliminary page in construction.
 
 ## Contact Information
-* **Email:** `giuliano.romeo@youruniversity.edu` *(Update this with your institutional email)*
-* **Office:** Department of Mathematics, University of...
-* **GitHub Profile:** [github.com/giulianoromeont](https://github.com/giulianoromeont)
+* **Email:** giuliano.romeo@polito.it
