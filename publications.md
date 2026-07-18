@@ -11,7 +11,7 @@ title: Publications
 
 ---
 
-1. **V. Kala, J. Krásenský, G. Romeo**: *Universality criterion sets for quadratic forms over number fields*, **Advances in Mathematics** **500** (2026), 111080. 
+1. **V. Kala, J. Krásenský, G. Romeo**: *Universality criterion sets for quadratic forms over number fields*, **Advances in Mathematics** **500** (2026), 111080.\\
    [DOI: 10.1016/j.aim.2026.111080](https://doi.org/10.1016/j.aim.2026.111080)
 
 2. **P. Miska, N. Murru, G. Romeo**: *On the arithmetic of multidimensional continued fractions*, **Mathematics of Computation** (2026). 
