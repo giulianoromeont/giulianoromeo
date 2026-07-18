@@ -5,8 +5,6 @@ title: Talks
 
 ## Talks
 
-**[Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md)**
-
 ---
 
 * **Sep 24, 2026** – *Universality criterion sets for quadratic forms over number fields*  
