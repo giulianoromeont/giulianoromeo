@@ -5,6 +5,10 @@ title: Teaching
 
 # Teaching Activity
 
+**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
+
+---
+
 ## 2025
 * **PhD Course:** *Advanced Aspects of Number Theory* – Politecnico di Torino (10 hours)
 * **Master's Degree Course:** *Post-quantum Cryptography* – Politecnico di Torino (20 hours)
