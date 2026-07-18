@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Talks & Seminars
+title: Talks
 ---
 
-# Talks & Seminars
+# Talks
 
-**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
+**[Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md)**
 
 ---
 
