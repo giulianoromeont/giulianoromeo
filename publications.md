@@ -5,7 +5,6 @@ title: Publications
 
 # Publications
 
-## Journal Articles
 
 1. **V. Kala, J. Krásenský, G. Romeo**: *Universality criterion sets for quadratic forms over number fields*, **Advances in Mathematics** **500** (2026), 111080. 
    [DOI: 10.1016/j.aim.2026.111080](https://doi.org/10.1016/j.aim.2026.111080)
@@ -38,7 +37,7 @@ title: Publications
 
 ---
 
-## Preprints & Under Review
+# Preprints
 
 * **G. Romeo, G. Salvatori**: *The arithmetic of continued fractions in the field of $p$-adic numbers*, preprint (2025). 
   [arXiv:2512.11069](https://arxiv.org/pdf/2512.11069.pdf)
@@ -47,4 +46,4 @@ title: Publications
   [arXiv:2505.03384](https://arxiv.org/pdf/2505.03384)
 
 * **A. Gangemi, G. D'Alconzo, L. Romano, G. Romeo**: *A Novel Formulation of the Relaxed Permuted Kernel Problem*, preprint (2025). 
-  *Note: Accepted for oral presentation at [ITASEC 2026](https://itasec.it); to be submitted soon to a journal.*
+  [https://eprint.iacr.org/2026/631](https://eprint.iacr.org/2026/631)
