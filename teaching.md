@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-# Teaching Activity
+# Teaching
 
 **[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
 
