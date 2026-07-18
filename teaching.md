@@ -17,4 +17,4 @@ title: Teaching
 * **Bachelor's Degree Course:** *Linear Algebra and Geometry* – Politecnico di Torino (40 hours)
 
 ---
-*For further details and current office hours, please visit my [official PoliTo personal page](https://www.polito.it/personale?p=giuliano.romeo).*
+*For further details see [this link](https://www.polito.it/personale?p=giuliano.romeo).*
