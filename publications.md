@@ -3,7 +3,12 @@ layout: default
 title: Publications
 ---
 
+**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
+
+---
+
 ## Publications
+
 
 
 1. **V. Kala, J. Krásenský, G. Romeo**: *Universality criterion sets for quadratic forms over number fields*, **Advances in Mathematics** **500** (2026), 111080. 
