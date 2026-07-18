@@ -7,7 +7,7 @@ title: Publications
 
 ## Publications
 
-**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
+**[Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md)**
 
 ---
 
