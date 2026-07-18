@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Giuliano Romeo
+# Homepage
 
 **[Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md)**
 
