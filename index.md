@@ -5,7 +5,7 @@ title: Home
 
 # Homepage
 
-** [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md) **
+[Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Teaching](teaching.md)
 
 ---
 
