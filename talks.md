@@ -5,7 +5,9 @@ title: Talks & Seminars
 
 # Talks & Seminars
 
-## Invited Talks
+**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
+
+---
 
 * **Sep 24, 2026** – *Universality criterion sets for quadratic forms over number fields*  
   Tenth Number Theory Meeting, Torino, Italy.  
@@ -29,7 +31,7 @@ title: Talks & Seminars
 
 * **Jun 30, 2025** – *Periodicity and real convergence of $p$-adic continued fractions*  
   33èmes Journées Arithmétiques, Luxembourg.  
-  [[Event Link](https://www.uni.lu/fstm-en/conferences/ja25/programme/)]
+  [[Link](https://www.uni.lu/fstm-en/conferences/ja25/programme/)]
 
 * **May 29, 2025** – *Periodicity and real convergence of $p$-adic continued fractions*  
   VI Giornata dei Dottorandi in Teoria dei Numeri, University of Rome "La Sapienza", Rome, Italy.  
@@ -37,6 +39,9 @@ title: Talks & Seminars
 
 * **Apr 3, 2025** – *On continued fractions over the field of $p$-adic numbers*  
   Mathematics with Computer Science Program Colloquium and Student Seminar, GTIIT, Shantou, China.
+
+* **Jan 8, 2025** – *MinRank attacks to multivariate cryptographic schemes*  
+  Seminar, University of Messina, Italy.
 
 * **Dec 17, 2024** – *Transcendental numbers via multidimensional continued fractions*  
   Oberseminar in Diophantine Geometry, University of Göttingen, Germany.  
@@ -46,22 +51,7 @@ title: Talks & Seminars
   21st International Fibonacci Conference, Harvey Mudd College, Claremont, USA.  
   [[Link](https://21stinternationalfibonacciconference.wordpress.com)]
 
-* **Oct 25, 2023** – *On the properties of $p$-adic continued fractions*  
-  Number Theory Seminar, Charles University, Prague, Czech Republic.  
-  [[Link](https://sites.google.com/view/shman/number-theory-seminar-2023-24)]
-
-* **Sep 23, 2022** – *On the convergence and the periodicity of $p$-adic continued fractions*  
-  Sixth Number Theory Meeting, Politecnico di Torino, Italy.  
-  [[Link](http://ntmeeting.polito.it/6th)]
-
----
-
-## Contributed and Outreach Seminars
-
-* **Jan 8, 2025** – *MinRank attacks to multivariate cryptographic schemes*  
-  Seminar, University of Messina, Italy.
-
-* **Ref 17, 2024** – *Criterion sets for universal quadratic forms over number fields*  
+* **Apr 17, 2024** – *Criterion sets for universal quadratic forms over number fields*  
   Eighth Mini Symposium of the Roman Number Theory Association, Roma Tre University, Rome, Italy.  
   [[Link](http://www.rnta.eu/8MSRNTA/index.html)]
 
@@ -75,9 +65,17 @@ title: Talks & Seminars
 * **Dec 20, 2023** – *Continued fractions in the field of $p$-adic numbers*  
   Seminar, University of Messina, Italy.
 
+* **Oct 25, 2023** – *On the properties of $p$-adic continued fractions*  
+  Number Theory Seminar, Charles University, Prague, Czech Republic.  
+  [[Link](https://sites.google.com/view/shman/number-theory-seminar-2023-24)]
+
 * **Aug 2, 2023** – *An introduction to the Blockchain*  
   Seminar, University of Messina, Italy.
 
 * **May 4, 2023** – *A new algorithm for $p$-adic continued fractions*  
   Seventh Mini Symposium of the Roman Number Theory Association, Roma Tre University, Rome, Italy.  
   [[Link](http://www.rnta.eu/7MSRNTA/index.html)]
+
+* **Sep 23, 2022** – *On the convergence and the periodicity of $p$-adic continued fractions*  
+  Sixth Number Theory Meeting, Politecnico di Torino, Italy.  
+  [[Link](http://ntmeeting.polito.it/6th)]
