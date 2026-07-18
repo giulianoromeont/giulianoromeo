@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-# Publications
+## Publications
 
 
 1. **V. Kala, J. Krásenský, G. Romeo**: *Universality criterion sets for quadratic forms over number fields*, **Advances in Mathematics** **500** (2026), 111080. 
@@ -37,7 +37,7 @@ title: Publications
 
 ---
 
-# Preprints
+## Preprints
 
 * **G. Romeo, G. Salvatori**: *The arithmetic of continued fractions in the field of $p$-adic numbers*, preprint (2025). 
   [arXiv:2512.11069](https://arxiv.org/pdf/2512.11069.pdf)
