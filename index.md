@@ -5,7 +5,7 @@ title: Home
 
 # Giuliano Romeo
 
-**[Home](index.md) | [Publications](publications.md)**
+**[Home](index.md) | [Publications](publications.md) | [Talks & Seminars](talks.md) | [Teaching](teaching.md)**
 
 ---
 
@@ -17,6 +17,3 @@ My research topics include $p$-adic numbers, continued fractions, and multidimen
 * **Email:** `giuliano.romeo@youruniversity.edu` *(Update this with your institutional email)*
 * **Office:** Department of Mathematics, University of...
 * **GitHub Profile:** [github.com/giulianoromeont](https://github.com/giulianoromeont)
-
----
-*For a complete list of my research papers, please visit the **[Publications page](publications.md)**.*
