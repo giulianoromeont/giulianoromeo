@@ -5,9 +5,12 @@ title: Home
 
 # Homepage
 
----
+Welcome to my personal website.
 
-Welcome to my personal mathematics website. This is still a very preliminary page under construction.
+Since October 2026, I am a postdoc in Paris at IRIF.
+
 
 ## Contact Information
-* **Email:** giuliano.romeo@polito.it
+* **Email:**
+giuliano.romeo@irif.fr
+giuliano.romeo@polito.it
