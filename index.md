@@ -8,7 +8,7 @@ title: Home
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
-      Postdoctoral research at<br> IRIF (CNRS) &middot; in Paris
+      Postdoctoral research at IRIF (CNRS) &middot; in Paris
     </div>
     <div class="links">
       <a href="https://github.com/giulianoromeont">GitHub</a>
