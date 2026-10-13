@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Articles
 permalink: /publications/
 ---
+
+## Publications
 
 1. <span class="pub-title">Universality criterion sets for quadratic forms over number fields</span>
    <span class="pub-meta">with V. Kala, J. Krásenský &middot; *Advances in Mathematics* 500 (2026), 111080</span>
@@ -44,18 +46,25 @@ permalink: /publications/
     <span class="pub-meta">with A. J. Di Scala, A. Gangemi, G. Vernetti &middot; *Mathematics* 10(15) (2022), 2746</span>
     <span class="pub-links">[DOI](https://doi.org/10.3390/math10152746) [arXiv](https://arxiv.org/abs/2206.14107)</span>
 
-
-
 ## Preprints
 
-1. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
-   <span class="pub-meta">with G. Salvatori &middot; 2025</span>
-   <span class="pub-links">[arXiv:2512.11069](https://arxiv.org/abs/2512.11069)</span>
+1. <span class="pub-title">Escalations and criteria over real quadratic fields</span>
+   <span class="pub-meta">with J. Krásenský &middot; 2026</span>
+   <span class="pub-links">[arXiv:2608.12648](https://arxiv.org/abs/2608.12648)</span>
 
-2. <span class="pub-title">Transcendence criteria for multidimensional continued fractions</span>
-   <span class="pub-meta">with F. Accossato, N. Murru &middot; 2025</span>
-   <span class="pub-links">[arXiv:2505.03384](https://arxiv.org/abs/2505.03384)</span>
+2. <span class="pub-title">Transcendence of continued fractions over function fields and a quantitative version of Uchiyama's theorem</span>
+   <span class="pub-meta">with F. Accossato, N. Murru, G. Salvatori &middot; 2026</span>
+   <span class="pub-links">[arXiv:2608.15119](https://arxiv.org/abs/2608.15119)</span>
+
 
 3. <span class="pub-title">A novel formulation of the Relaxed Permuted Kernel Problem</span>
    <span class="pub-meta">with A. Gangemi, G. D'Alconzo, L. Romano &middot; 2026</span>
    <span class="pub-links">[IACR ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
+
+4. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
+   <span class="pub-meta">with G. Salvatori &middot; 2025</span>
+   <span class="pub-links">[arXiv:2512.11069](https://arxiv.org/abs/2512.11069)</span>
+
+5. <span class="pub-title">Transcendence criteria for multidimensional continued fractions</span>
+   <span class="pub-meta">with F. Accossato, N. Murru &middot; 2025</span>
+   <span class="pub-links">[arXiv:2505.03384](https://arxiv.org/abs/2505.03384)</span>
