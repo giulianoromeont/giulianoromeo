@@ -48,5 +48,5 @@ Publisher Link: [https://nyjm.albany.edu/j/2026/32-28.html](https://nyjm.albany.
 * **F. Accossato, N. Murru, G. Romeo**: *Transcendence criteria for multidimensional continued fractions*, preprint (2025). <br>
   arXiv: [2505.03384](https://arxiv.org/abs/2505.03384)
 
-* **A. Gangemi, G. D'Alconzo, L. Romano, G. Romeo**: *A Novel Formulation of the Relaxed Permuted Kernel Problem*, preprint (2025). <br>
+* **A. Gangemi, G. D'Alconzo, L. Romano, G. Romeo**: *A Novel Formulation of the Relaxed Permuted Kernel Problem*, preprint (2026). <br>
   eprint: [2026/631](https://eprint.iacr.org/2026/631)
