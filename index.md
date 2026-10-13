@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="profile">
-  <img class="profile-photo" src="{{ '/assets/img/photo.png' | relative_url }}" alt="Giuliano Romeo">
+  <img class="profile-photo" src="{{ '/assets/img/photo.jpg' | relative_url }}" alt="Giuliano Romeo">
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
