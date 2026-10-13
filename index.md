@@ -22,17 +22,16 @@ title: Home
 Since October 2026, I am a postdoc at [CNRS](https://www.cnrs.fr), working at [IRIF](https://www.irif.fr) in Paris.
 
 Before that:
-- I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague
-and at [Politecnico di Torino](https://www.polito.it).
-- I received my Ph. D. at Politecnico di Torino
+- I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague and at [Politecnico di Torino](https://www.polito.it).
+- I received my Ph. D. at Politecnico di Torino on Feb. 2025
 
 
-Some research topic from **number theory** and **cryptography** include:
+Some of my research topics from **number theory** and **cryptography**:
 
 - continued fractions and generalizations;
 - Diophantine approximation and transcendence;
 - quadratic forms over number fields;
-- post-quantum cryptography and blockchain technology.
+- post-quantum cryptography and blockchain.
 
 
 ## Contact information
