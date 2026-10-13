@@ -4,22 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-## Preprints
-
-1. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
-   <span class="pub-meta">with G. Salvatori &middot; 2025</span>
-   <span class="pub-links">[arXiv:2512.11069](https://arxiv.org/abs/2512.11069)</span>
-
-2. <span class="pub-title">Transcendence criteria for multidimensional continued fractions</span>
-   <span class="pub-meta">with F. Accossato, N. Murru &middot; 2025</span>
-   <span class="pub-links">[arXiv:2505.03384](https://arxiv.org/abs/2505.03384)</span>
-
-3. <span class="pub-title">A novel formulation of the Relaxed Permuted Kernel Problem</span>
-   <span class="pub-meta">with A. Gangemi, G. D'Alconzo, L. Romano &middot; 2026</span>
-   <span class="pub-links">[IACR ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
-
-## Journal articles
-
 1. <span class="pub-title">Universality criterion sets for quadratic forms over number fields</span>
    <span class="pub-meta">with V. Kala, J. Krásenský &middot; *Advances in Mathematics* 500 (2026), 111080</span>
    <span class="pub-links">[DOI](https://doi.org/10.1016/j.aim.2026.111080) [arXiv](https://arxiv.org/abs/2410.22507)</span>
@@ -59,3 +43,18 @@ permalink: /publications/
 10. <span class="pub-title">Special subsets of addresses for blockchains using the secp256k1 curve</span>
     <span class="pub-meta">with A. J. Di Scala, A. Gangemi, G. Vernetti &middot; *Mathematics* 10(15) (2022), 2746</span>
     <span class="pub-links">[DOI](https://doi.org/10.3390/math10152746) [arXiv](https://arxiv.org/abs/2206.14107)</span>
+
+
+## Preprints
+
+1. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
+   <span class="pub-meta">with G. Salvatori &middot; 2025</span>
+   <span class="pub-links">[arXiv:2512.11069](https://arxiv.org/abs/2512.11069)</span>
+
+2. <span class="pub-title">Transcendence criteria for multidimensional continued fractions</span>
+   <span class="pub-meta">with F. Accossato, N. Murru &middot; 2025</span>
+   <span class="pub-links">[arXiv:2505.03384](https://arxiv.org/abs/2505.03384)</span>
+
+3. <span class="pub-title">A novel formulation of the Relaxed Permuted Kernel Problem</span>
+   <span class="pub-meta">with A. Gangemi, G. D'Alconzo, L. Romano &middot; 2026</span>
+   <span class="pub-links">[IACR ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
