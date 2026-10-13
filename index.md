@@ -8,7 +8,7 @@ title: Home
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
-      Postdoctoral research at IRIF (CNRS) &middot; Paris
+      Postdoctoral researcher at IRIF (CNRS) &middot; Paris
     </div>
     <div class="links">
       <a href="https://github.com/giulianoromeont">GitHub</a>
@@ -24,7 +24,7 @@ Since October 2026, I am a postdoc at [CNRS](https://www.cnrs.fr), working at [I
 Before that:
 - I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague and at [Politecnico di Torino](https://www.polito.it).
 - I received my Ph. D. at Politecnico di Torino
-
+<br>
 
 Some of my research interests from **number theory** and **cryptography** are:
 
