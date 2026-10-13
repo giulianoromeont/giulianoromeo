@@ -2,13 +2,17 @@
 #
 ---
 
-$accent:            #23407a;   // blu inchiostro: link, barra in alto
+$accent:            #23407a;  
 $base-font-family:  "Source Serif 4", Georgia, "Times New Roman", serif;
 $sans:              "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
 $base-font-size:    18px;
 $base-line-height:  1.6;
 $text-color:        #1d1d1f;
-$background-color:  #fbfaf7;   // bianco caldo, appena percettibile
+$page-bg:           #fbf9f0;   
+$background-color:  $page-bg;
+$brick:             #96493f;   
+$brick-soft:        #a35f53;  
+$hero-bg:           #f6f1dc;   
 $brand-color:       $accent;
 $grey-color:        #6b6b70;
 $grey-color-light:  #e6e3dc;
@@ -155,4 +159,42 @@ hr { border: 0; border-top: 1px solid $grey-color-light; margin: 2em 0; }
   font-size: 13px;
   color: $grey-color;
   p { margin: 0; }
+}
+
+
+
+
+.site-header {
+  background: $brick;
+  border-top: 0;
+  border-bottom: 0;
+  z-index: 10;                 
+}
+.site-title,
+.site-title:visited { color: $page-bg; }
+.site-nav .page-link {
+  color: #f0dcd3;
+  &:hover { color: #fff; }
+}
+
+@include media-query($on-palm) {
+  .site-nav .page-link {
+    color: $text-color;
+    &:hover { color: $brick; }
+  }
+}
+
+
+.post-title,                
+.page-content h2 {           
+  color: $brick;
+}
+.page-content h3 { color: $brick-soft; }   
+
+.profile {
+  margin-top: -48px;                     
+  padding: 40px 0;
+  background: $hero-bg;
+  box-shadow: 0 0 0 100vmax $hero-bg;    
+  clip-path: inset(0 -100vmax);
 }
