@@ -8,7 +8,7 @@ title: Home
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
-      Researcher in Cryptography<br>
+      Since October 2026, I am a postdoctoral researcher at<br>
       CNRS &middot; IRIF, Université Paris Cité
     </div>
     <div class="links">
@@ -46,12 +46,6 @@ See my [publications]({{ '/publications/' | relative_url }}) and
   <strong>Office:</strong> TODO, Bâtiment Sophie Germain<br>
   8 place Aurélie Nemours, 75013 Paris, France
 </div>
-
-
-Welcome to my personal website.
-
-Since October 2026, I am a postdoc in Paris at IRIF.
-
 
 
 
