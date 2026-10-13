@@ -39,17 +39,13 @@ My research lies between **number theory** and **cryptography**:
 See my [publications]({{ '/publications/' | relative_url }}) and
 [talks]({{ '/talks/' | relative_url }}).
 
-## Contact
+## Contact information
 
 <div class="contact">
-  <strong>Email:</strong> TODO@irif.fr<br>
-  <strong>Office:</strong> TODO, Bâtiment Sophie Germain<br>
+  <strong>Email:</strong> giuliano.romeo@irif.fr giuliano.romeo@polito.it<br>
+  <strong>Address:</strong> Bâtiment Sophie Germain<br>
   8 place Aurélie Nemours, 75013 Paris, France
 </div>
 
 
 
-## Contact Information
-* **Email:**
-giuliano.romeo@irif.fr
-giuliano.romeo@polito.it
