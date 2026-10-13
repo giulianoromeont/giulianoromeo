@@ -12,11 +12,8 @@ title: Home
       IRIF (CNRS) &middot; in Paris
     </div>
     <div class="links">
-      <a href="https://arxiv.org/a/TODO">arXiv</a>
-      <a href="https://scholar.google.com/citations?user=TODO">Google Scholar</a>
-      <a href="https://orcid.org/TODO">ORCID</a>
       <a href="https://github.com/giulianoromeont">GitHub</a>
-      <a href="{{ '/assets/cv.pdf' | relative_url }}">CV</a>
+      <a href="https://scholar.google.com/citations?user=5hpLe9YAAAAJ&hl=it">Google Scholar</a>
     </div>
   </div>
 </div>
