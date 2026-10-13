@@ -8,8 +8,8 @@ title: Home
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
-      Since October 2026, I am a postdoctoral researcher at<br>
-      CNRS &middot; IRIF, Université Paris Cité
+      Postdoctoral research at<br>
+      IRIF (CNRS) &middot; in Paris
     </div>
     <div class="links">
       <a href="https://arxiv.org/a/TODO">arXiv</a>
@@ -23,21 +23,21 @@ title: Home
 
 ## About me
 
-I am a researcher at [CNRS](https://www.cnrs.fr), working at
+Since October 2026, I am a postdoc at<br> [CNRS](https://www.cnrs.fr), working at
 [IRIF](https://www.irif.fr) in Paris.
-Before that, I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague
+
+Before that:
+- I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague
 and at [Politecnico di Torino](https://www.polito.it).
-<!-- TODO: aggiungi dove e quando hai fatto il dottorato, e con chi -->
+- I received my Ph. D. at Politecnico di Torino
 
 My research lies between **number theory** and **cryptography**:
 
-- continued fractions in the field of $p$-adic numbers and multidimensional continued fractions;
+- continued fractions and generalizations;
 - Diophantine approximation and transcendence;
-- universal quadratic forms over number fields;
-- post-quantum cryptography and algebraic cryptanalysis (Permuted Kernel Problem, MinRank).
+- quadratic forms over number fields;
+- post-quantum cryptography.
 
-See my [publications]({{ '/publications/' | relative_url }}) and
-[talks]({{ '/talks/' | relative_url }}).
 
 ## Contact information
 
