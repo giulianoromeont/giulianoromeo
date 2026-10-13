@@ -58,7 +58,7 @@ permalink: /publications/
 
 
 3. <span class="pub-title">A novel formulation of the Relaxed Permuted Kernel Problem</span>
-   <span class="pub-meta">with A. Gangemi, G. D'Alconzo, L. Romano &middot; 2026</span>
+   <span class="pub-meta">with G. D'Alconzo, A. Gangemi, L. Romano &middot; 2026</span>
    <span class="pub-links">[IACR ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
 
 4. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
