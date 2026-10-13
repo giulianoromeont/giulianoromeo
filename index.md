@@ -26,12 +26,13 @@ Before that:
 and at [Politecnico di Torino](https://www.polito.it).
 - I received my Ph. D. at Politecnico di Torino
 
-My research lies between **number theory** and **cryptography**:
+
+Some research topic from **number theory** and **cryptography** include:
 
 - continued fractions and generalizations;
 - Diophantine approximation and transcendence;
 - quadratic forms over number fields;
-- post-quantum cryptography.
+- post-quantum cryptography and blockchain technology.
 
 
 ## Contact information
