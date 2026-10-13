@@ -56,10 +56,9 @@ permalink: /publications/
    <span class="pub-meta">with F. Accossato, N. Murru, G. Salvatori &middot; 2026</span>
    <span class="pub-links">[arXiv:2608.15119](https://arxiv.org/abs/2608.15119)</span>
 
-
 3. <span class="pub-title">A novel formulation of the Relaxed Permuted Kernel Problem</span>
    <span class="pub-meta">with G. D'Alconzo, A. Gangemi, L. Romano &middot; 2026</span>
-   <span class="pub-links">[IACR ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
+   <span class="pub-links">[ePrint 2026/631](https://eprint.iacr.org/2026/631)</span>
 
 4. <span class="pub-title">The arithmetic of continued fractions in the field of $p$-adic numbers</span>
    <span class="pub-meta">with G. Salvatori &middot; 2025</span>
