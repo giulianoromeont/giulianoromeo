@@ -1,7 +1,7 @@
 
 title: Giuliano Romeo
 description: >-
-  Postdoctoral in number theory and cryptography at IRIF, CNRS (Paris)
+  Postdoctoral researcher in number theory and cryptography at IRIF, CNRS (Paris)
 author: Giuliano Romeo
 email: giuliano.romeo@irif.fr        
 
@@ -14,7 +14,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-  - publications.md
+  - research.md
   - talks.md
   - teaching.md
 
