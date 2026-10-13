@@ -26,7 +26,6 @@ Before that:
 - I received my Ph. D. at Politecnico di Torino
 
 <br>
-
 Some of my research interests from **number theory** and **cryptography** are:
 
 - continued fractions and generalizations;
