@@ -1,10 +1,4 @@
----
-# Questa riga vuota tra i trattini serve a Jekyll: non toglierla.
----
 
-// ------------------------------------------------------------
-//  Variabili del tema (vanno PRIMA di @import "minima")
-// ------------------------------------------------------------
 $accent:            #23407a;   // blu inchiostro: link, barra in alto
 $base-font-family:  "Source Serif 4", Georgia, "Times New Roman", serif;
 $sans:              "Inter", -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
@@ -19,9 +13,8 @@ $content-width:     820px;
 
 @import "minima";
 
-// ------------------------------------------------------------
-//  Header e menu
-// ------------------------------------------------------------
+
+
 .site-header {
   border-top: 4px solid $accent;
   border-bottom: 1px solid $grey-color-light;
@@ -41,9 +34,7 @@ $content-width:     820px;
   &:hover { color: $accent; text-decoration: none; }
 }
 
-// ------------------------------------------------------------
-//  Tipografia
-// ------------------------------------------------------------
+
 h1, h2, h3, .post-title {
   font-family: $sans;
   font-weight: 600;
@@ -64,9 +55,7 @@ hr { border: 0; border-top: 1px solid $grey-color-light; margin: 2em 0; }
 
 .page-content { padding: 48px 0 64px; }
 
-// ------------------------------------------------------------
-//  Homepage: foto + presentazione
-// ------------------------------------------------------------
+
 .profile {
   display: flex;
   gap: 40px;
@@ -100,7 +89,7 @@ hr { border: 0; border-top: 1px solid $grey-color-light; margin: 2em 0; }
   margin-bottom: 18px;
 }
 
-// Pulsanti per i link (arXiv, Scholar, CV, ...)
+
 .links {
   display: flex;
   flex-wrap: wrap;
@@ -130,9 +119,7 @@ hr { border: 0; border-top: 1px solid $grey-color-light; margin: 2em 0; }
   line-height: 1.7;
 }
 
-// ------------------------------------------------------------
-//  Pubblicazioni, talk, insegnamento
-// ------------------------------------------------------------
+
 .page-content ol li,
 .page-content ul li { margin-bottom: 1em; }
 
@@ -156,9 +143,8 @@ hr { border: 0; border-top: 1px solid $grey-color-light; margin: 2em 0; }
   font-variant-numeric: tabular-nums;
 }
 
-// ------------------------------------------------------------
-//  Footer
-// ------------------------------------------------------------
+
+
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: 24px 0;
