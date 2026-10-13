@@ -6,7 +6,7 @@ permalink: /talks/
 
 ### 2026
 
-- <span class="date">Sep 24</span> &middot; *Universality criterion sets for quadratic forms over number fields*  
+- <span class="date">Sep 24</span> &middot; *Criterion sets and escalations for quadratic forms over number fields*  
   Tenth Number Theory Meeting, Torino, Italy &middot; [link](https://ntmeeting.polito.it/10th_number_theory_meeting)
 
 - <span class="date">Jul 7</span> &middot; *The arithmetic of multidimensional continued fractions*  
