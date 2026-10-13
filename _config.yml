@@ -1,4 +1,22 @@
 
+title: Giuliano Romeo
+description: >-
+  Postdoctoral in number theory and cryptography at IRIF, CNRS (Paris)
+author: Giuliano Romeo
+email: giuliano.romeo@irif.fr        
+
+url: "https://giulianoromeont.github.io"
+baseurl: ""
 
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
+header_pages:
+  - publications.md
+  - talks.md
+  - teaching.md
+
+exclude:
+  - README.md
