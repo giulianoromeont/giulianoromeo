@@ -24,6 +24,7 @@ Since October 2026, I am a postdoc at [CNRS](https://www.cnrs.fr), working at [I
 Before that:
 - I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague and at [Politecnico di Torino](https://www.polito.it).
 - I received my Ph. D. at Politecnico di Torino
+
 <br>
 
 Some of my research interests from **number theory** and **cryptography** are:
