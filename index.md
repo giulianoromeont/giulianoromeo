@@ -19,7 +19,7 @@ title: Home
 
 ## About me
 
-Since October 2026, I am a postdoc at<br> [CNRS](https://www.cnrs.fr), working at [IRIF](https://www.irif.fr) in Paris.
+Since October 2026, I am a postdoc at [CNRS](https://www.cnrs.fr), working at [IRIF](https://www.irif.fr) in Paris.
 
 Before that:
 - I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague
