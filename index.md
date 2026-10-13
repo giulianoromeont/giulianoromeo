@@ -8,8 +8,7 @@ title: Home
   <div class="profile-text">
     <h1>Giuliano Romeo</h1>
     <div class="profile-role">
-      Postdoctoral research at<br>
-      IRIF (CNRS) &middot; in Paris
+      Postdoctoral research at<br> IRIF (CNRS) &middot; in Paris
     </div>
     <div class="links">
       <a href="https://github.com/giulianoromeont">GitHub</a>
@@ -20,8 +19,7 @@ title: Home
 
 ## About me
 
-Since October 2026, I am a postdoc at<br> [CNRS](https://www.cnrs.fr), working at
-[IRIF](https://www.irif.fr) in Paris.
+Since October 2026, I am a postdoc at<br> [CNRS](https://www.cnrs.fr), working at [IRIF](https://www.irif.fr) in Paris.
 
 Before that:
 - I was a postdoc at [Charles University](https://www.mff.cuni.cz) in Prague
