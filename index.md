@@ -41,7 +41,7 @@ Some of my research interests from **number theory** and **cryptography** are:
 ## Contact information
 
 <div class="contact">
-  <strong>Email:</strong> giuliano.romeo@irif.fr &middot giuliano.romeo@polito.it<br>
+  <strong>Email:</strong> giuliano.romeo@irif.fr &middot; giuliano.romeo@polito.it<br>
   <strong>Address:</strong> Bâtiment Sophie Germain<br>
   8 place Aurélie Nemours, 75013 Paris, France
 </div>
