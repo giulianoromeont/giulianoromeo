@@ -21,6 +21,7 @@ title: Home
 
 Since October 2026: I am a postdoc at [CNRS](https://www.cnrs.fr) within the ERC Synergy Grant “[DynAMiCs](https://dynamics.mpi-sws.org)”, working at [IRIF](https://www.irif.fr) in Paris.
 
+<br>
 Before that:
 - I was a research fellow at [Politecnico di Torino](https://www.polito.it), within the project "Cryptographic models and protocols for the tokenization of real-world assets with physical collateral".
 - I was a research fellow at the [University of Trento](https://www.unitn.it/it), within the PRIN 2022 project "Algebraic methods in Cryptanalysis".
